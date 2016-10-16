@@ -52,3 +52,20 @@ item_prospectus = {
     "description":
     """in bold writing on the cover of this prospectus reads studying computer science in cardiff university."""
 }
+
+item_water = {
+    "id": "water",
+
+    "name": "water bottle",
+
+    "description":
+    """its obvious the water bottle has been down here for some time."""
+}
+
+item_rope = {
+    "id": "rope",
+
+    "name": "rope",
+
+    "description":
+    """
